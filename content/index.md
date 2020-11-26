@@ -6,8 +6,6 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
+Hej!
 
-This is a sample home page written in markdown with some frontmatter defined.
-
-The pages make up a Anax site for demonstration purpose, it is something to start from.
+Jag heter Daniel och jag bor i Karlskrona med min sambo och en katt som heter Luna. Jag är ny till högskola och studerar webbprogrammering på BTH som jag började på i augusti. Jag har varit teknikare större delen av mitt liv men programmering är helt nytt till mig. 
